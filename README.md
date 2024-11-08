@@ -1,5 +1,3 @@
-# Hello there! 👋
-
 ### 👋 Hi, I’m **Mardev**!
 ---
 Welcome to my GitHub profile! I'm a passionate developer enthusiastic about **mobile app development** and **software engineering**. My goal is to continually learn, grow, and contribute to the tech community.
