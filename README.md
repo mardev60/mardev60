@@ -35,6 +35,7 @@ Welcome to my GitHub profile! I'm a passionate developer enthusiastic about **mo
 <a href="https://www.heroku.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/heroku-colored.svg" width="36" height="36" alt="Heroku" /></a>
 <a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" width="36" height="36" alt="Figma" /></a>
 </p>
+
 ### 💡 Fun Fact
 ---
 I'm always on the lookout for my next learning adventure, whether it's a new programming language or the latest tech in app development.
